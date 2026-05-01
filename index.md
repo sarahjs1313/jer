@@ -1,7 +1,7 @@
 ---
 ---
 
-# best plumbing company
+# Best Plumbing Company
 
 <img src="{{ '/assets/images/plumbing-logo.svg' | relative_url }}" alt="Plumbing logo" width="64" height="64" />
 
